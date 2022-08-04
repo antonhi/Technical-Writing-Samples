@@ -1,5 +1,5 @@
 # Technical-Writing-Samples
-Links to all public technical writing samples I have written
+Links to all public technical writing samples I have written.
 
 ## Using Twilio Conversations with Studio
 Wrote a guide on using the Twilio Conversations product with Studio. Studio's integration with Conversations was recently introduced.
